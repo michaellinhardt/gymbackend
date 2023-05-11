@@ -1,0 +1,13 @@
+# Files related to development only
+.vscode
+.DS_Store
+.apiKeys.JSON
+node_modules
+dist
+
+# Configuration file for production and test env, with all private keys
+# production.env.js
+# test.env.js
+
+GPTPack.py
+GPTPack.txt

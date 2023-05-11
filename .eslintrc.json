@@ -1,0 +1,50 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true,
+    "node": true
+  },
+  "plugins": [
+    "mocha"
+  ],
+  "globals": {
+    "PUBLIC": true,
+    "MS_SECOND": true,
+    "MS_MINUTE": true,
+    "MS_HOUR": true,
+    "MS_DAY": true,
+    "MS_WEEK": true,
+    "MS_MONTH": true,
+    "MS_YEAR": true
+  },
+  "extends": [
+    "zavatta",
+    "plugin:mocha/recommended"
+  ],
+  "rules": {
+    "mocha/max-top-level-suites": "off",
+    "mocha/no-top-level-hooks": "off",
+    "mocha/no-mocha-arrows": "off",
+    "mocha/no-exports": "off",
+    "curly": "off",
+    "semi": "warn",
+    "no-tabs": "off",
+    "no-undef": "warn",
+    "no-unused-vars": "warn",
+    "no-inline-comments": "off",
+    "no-console": "off",
+    "id-length": "off",
+    "indent": [
+      "error",
+      "tab"
+    ],
+    "max-len": [
+      "warn",
+      {
+        "code": 100
+      }
+    ],
+    "no-sync": 0,
+    "camelcase": 0
+  }
+}
