@@ -17,8 +17,8 @@ module.exports = {
     ],
 
     file: [
-        './application/mocha/globals/init.global.js',
-        './application/mocha/globals/after.each.global.js',
+        './backendapplication/mocha/globals/init.global.js',
+        './backendapplication/mocha/globals/after.each.global.js',
     ],
 
     exit: true,

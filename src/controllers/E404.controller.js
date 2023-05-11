@@ -1,5 +1,5 @@
 // Import the ControllerSuperclass
-import { ControllerSuperclass } from '../../application/superclass/controller.superclass'
+import { ControllerSuperclass } from '../../backendapplication/superclass/controller.superclass'
 
 // Define and export the E404Controller, which is used when no other controller
 // matches the HTTP request endpoint
