@@ -1,6 +1,0 @@
-[submodule "mikehelpers"]
-	path = mikehelpers
-	url = https://github.com/michaellinhardt/mikehelpers.git
-[submodule "backendapplication"]
-	path = backendapplication
-	url = https://github.com/michaellinhardt/backendapplication.git

@@ -1,5 +1,5 @@
 // Imports the helper function to set up a default table structure
-import { createTableDefaultSetup } from '../../backendapplication/helpers/knex.helper'
+import { createTableDefaultSetup } from '../../application/helpers/knex.helper'
 
 // Defines the table name
 const tableName = 'keys'

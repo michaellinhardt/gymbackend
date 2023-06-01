@@ -1,4 +1,4 @@
-import { ControllerSuperclass } from '../../backendapplication/superclass/controller.superclass'
+import { ControllerSuperclass } from '../../application/superclass/controller.superclass'
 
 export const MochaController
 

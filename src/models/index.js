@@ -1,4 +1,4 @@
-import { ModelSuperclass } from '../../backendapplication/superclass/model.superclass'
+import { ModelSuperclass } from '../../application/superclass/model.superclass'
 
 export const
 

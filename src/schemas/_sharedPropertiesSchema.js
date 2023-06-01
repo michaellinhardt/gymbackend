@@ -1,4 +1,4 @@
-import * as h from '../../backendapplication/helpers'
+import * as h from '../../application/helpers'
 
 export const
 	username = h.schema.string(3, 24),

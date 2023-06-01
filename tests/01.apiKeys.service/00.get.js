@@ -1,5 +1,5 @@
 // Import necessary helper functions, Bluebird Promise, and the apiKeys service
-import * as h from '../../backendapplication/mocha/helpers'
+import * as h from '../../application/mocha/helpers'
 import { Promise } from 'bluebird'
 import { apiKeys } from '../../src/services'
 
